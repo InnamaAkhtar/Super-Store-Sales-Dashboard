@@ -46,7 +46,7 @@ This dashboard provides a consolidated view of business performance by combining
 
 <!-- Upload your dashboard screenshot to the repository and update the image filename if required. -->
 
-![Super Store Sales Dashboard](super-store-sales-dashboard.png)
+![Super Store Sales Dashboard](https://github.com/InnamaAkhtar/Super-Store-Sales-Dashboard/blob/main/IMAGE.png.png)
 
 ## 👩‍💻 Author
 
