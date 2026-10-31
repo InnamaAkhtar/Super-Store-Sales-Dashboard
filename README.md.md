@@ -49,6 +49,11 @@ This dashboard provides a consolidated view of business performance by combining
 ![Super Store Sales Dashboard](https://github.com/InnamaAkhtar/Super-Store-Sales-Dashboard/blob/main/IMAGE.png.png)
 ![Super Store Sales Dashboard](https://github.com/InnamaAkhtar/Super-Store-Sales-Dashboard/blob/main/image.png%20(3).png)
 
+### 🔮 Sales Forecasting
+- Implemented a 10-day sales forecast using historical sales data in Power BI.
+- Visualized actual and predicted sales trends with confidence intervals.
+- Used forecasting insights to understand potential future sales performance.
+
 ## 👩‍💻 Author
 
 **Innama Akhtar**
